@@ -1,4 +1,4 @@
-Franklin Final Project
+Appetit Final Project
 
 App Idea: IOS App that allows users to maintain a catalogue of the ingredients in their fridge. Using that database of ingredients, we are also able to recommend recipes. The user will be able to add ingredients to their fridge by scanning the barcode or adding it manually. 
 
